@@ -1,0 +1,22 @@
+http://10.110.6.11/eportal/webGateModeV2.do?method=login&param=true&wlanuserip=ca80eddff3449f51dab0574a0b1397d0&wlanacname=9e45d7075cd1cda5aee663507c1818e1&ssid=&nasip=b3f4bb5d65ed76b6d96950ac2be0015a&snmpagentip=&mac=9fc27548088d1c1691f57eaf3295d65a&t=wireless-v2&url=2c0328164651e2b4119ee8bb4f24a89bbcef0b3ce5a26077e7394bc08a3c7e04860acd2b66a03f93aa21b9c47c8a38c25b7a8ec71ed2785c95ff2218ae9f8451cf68c6994f6a546d&apmac=&nasid=9e45d7075cd1cda5aee663507c1818e1&vid=534d648817d0a7e8&port=2f9b8cb1ec238031&nasportid=a4ea9de28cbfe9fc659fd94ce12421350c97d57a4cf48c521d3d806fe0d6ab73492596df7cbc5d22&net_access_type=%D2%C6%B6%AF&username=1502510723&pwd=135246
+
+
+http://10.110.6.11/eportal/webGateModeV2.do?method=logout&userIndex=62336634626235643635656437366236643936393530616332626530303135615f31302e34302e31342e32335f31353032353130373233
+我退出
+
+
+http://10.110.6.11/eportal/webGateModeV2.do?method=login&param=true&wlanuserip=ca80eddff3449f51dab0574a0b1397d0&wlanacname=9e45d7075cd1cda5aee663507c1818e1&ssid=&nasip=b3f4bb5d65ed76b6d96950ac2be0015a&snmpagentip=&mac=9fc27548088d1c1691f57eaf3295d65a&t=wireless-v2&url=2c0328164651e2b4119ee8bb4f24a89bbcef0b3ce5a26077e7394bc08a3c7e04860acd2b66a03f93aa21b9c47c8a38c25b7a8ec71ed2785c95ff2218ae9f8451cf68c6994f6a546d&apmac=&nasid=9e45d7075cd1cda5aee663507c1818e1&vid=534d648817d0a7e8&port=2f9b8cb1ec238031&nasportid=a4ea9de28cbfe9fc659fd94ce12421350c97d57a4cf48c521d3d806fe0d6ab73492596df7cbc5d22&username=WYLING1&pwd=111111
+
+http://10.110.6.11/eportal/webGateModeV2.do?method=logout&userIndex=62336634626235643635656437366236643936393530616332626530303135615f31302e34302e372e3133365f57594c494e4731
+老师退出
+
+http://10.110.6.11/eportal/webGateModeV2.do?method=login&param=true&wlanuserip=144620463aa2824933bd0603529d2450&wlanacname=9e45d7075cd1cda5aee663507c1818e1&ssid=&nasip=b3f4bb5d65ed76b6d96950ac2be0015a&snmpagentip=&mac=9fc27548088d1c1691f57eaf3295d65a&t=wireless-v2&url=709db9dc9ce334aae2e6adf9e23f5a40abddeb358e2f6c9a7e1ef962a63970bd9a7741ff64dd636d8b8de7b5bd085d17b267bbd83290bf6b&apmac=&nasid=9e45d7075cd1cda5aee663507c1818e1&vid=534d648817d0a7e8&port=2f9b8cb1ec238031&nasportid=a4ea9de28cbfe9fc659fd94ce12421350c97d57a4cf48c521d3d806fe0d6ab73492596df7cbc5d22&net_access_type=%D2%C6%B6%AF&username=1502510723&pwd=135246
+
+
+
+net_access_type=%D0%A3%D4%B0%C4%DA%CD%F8  //校园出口
+net_access_type=%D2%C6%B6%AF//移动出口
+
+
+
+
